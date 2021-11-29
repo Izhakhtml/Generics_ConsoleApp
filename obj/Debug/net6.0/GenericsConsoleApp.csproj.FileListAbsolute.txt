@@ -1,0 +1,15 @@
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.exe
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.deps.json
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.runtimeconfig.json
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\bin\Debug\net6.0\ref\GenericsConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\bin\Debug\net6.0\GenericsConsoleApp.pdb
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.AssemblyInfo.cs
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\ref\GenericsConsoleApp.dll
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.pdb
+C:\Users\אליאב ליגעלם\Desktop\full stack\full stack tech career\C#\GenericsConsoleApp\obj\Debug\net6.0\GenericsConsoleApp.genruntimeconfig.cache
